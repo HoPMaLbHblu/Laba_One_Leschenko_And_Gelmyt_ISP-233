@@ -31,7 +31,7 @@ namespace Laba_One
             //decimal iDecimal = 3.4m;
             //var a = 12;
             //System.Int32 n;
-
+            //awe
             //char symb = 'a';
             //Console.WriteLine(int.MinValue);
 

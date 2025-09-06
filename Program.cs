@@ -21,19 +21,19 @@ namespace Laba_One
             //Console.WriteLine($"Ваше имя - {name}, ваш возраст - {age}, ваш город - {city}");
             //Console.WriteLine("{0}, {1}, {2}", name, age, city);
 
-            int number = 250;
-            byte number2 = (byte)(number+10);
-            Console.WriteLine(number2);
-            bool alive = false;
-            bool isDead = true; //я гуль;;;;;;;
-            double iDouble = 4.5;
-            float iFloat = 4.3f;
-            decimal iDecimal = 3.4m;
-            var a = 12;
-            System.Int32 n;
+            //int number = 250;
+            //byte number2 = (byte)(number+10);
+            //Console.WriteLine(number2);
+            //bool alive = false;
+            //bool isDead = true; 
+            //double iDouble = 4.5;
+            //float iFloat = 4.3f;
+            //decimal iDecimal = 3.4m;
+            //var a = 12;
+            //System.Int32 n;
 
-            char symb = 'a';
-            Console.WriteLine(int.MinValue);
+            //char symb = 'a';
+            //Console.WriteLine(int.MinValue);
 
 
         }
